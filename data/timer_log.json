@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2025-06-12 11:24:51",
+        "message": "Tugas ditambahkan: 'Olahraga'"
+    },
+    {
+        "timestamp": "2025-06-12 11:48:17",
+        "message": "Timer dihentikan manual"
+    },
+    {
+        "timestamp": "2025-06-12 11:48:19",
+        "message": "Mulai Fokus selama 1 menit"
+    },
+    {
+        "timestamp": "2025-06-12 11:49:19",
+        "message": "Tugas 'Olahraga' selesai (otomatis ditandai)."
+    },
+    {
+        "timestamp": "2025-06-12 13:54:18",
+        "message": "Tugas ditambahkan: 'Belajar'"
+    },
+    {
+        "timestamp": "2025-06-12 13:54:20",
+        "message": "Tugas ditandai selesai: 'Belajar'"
+    },
+    {
+        "timestamp": "2025-06-12 13:54:24",
+        "message": "Tugas ditambahkan: 'Olahraga'"
+    },
+    {
+        "timestamp": "2025-06-12 13:56:42",
+        "message": "Tugas ditambahkan: 'Olahraga'"
+    },
+    {
+        "timestamp": "2025-06-12 13:57:04",
+        "message": "Tugas ditambahkan: 'Belajar'"
+    },
+    {
+        "timestamp": "2025-06-12 16:58:12",
+        "message": "Mulai Fokus selama 1 menit"
+    },
+    {
+        "timestamp": "2025-06-12 16:59:12",
+        "message": "Tugas 'Belajar' selesai (otomatis ditandai)."
+    },
+    {
+        "timestamp": "2025-07-01 19:48:54",
+        "message": "Tugas ditambahkan: 'Olahraga'"
+    },
+    {
+        "timestamp": "2025-07-01 20:02:55",
+        "message": "Mulai Fokus selama 1 menit"
+    },
+    {
+        "timestamp": "2025-07-01 20:03:56",
+        "message": "Tugas 'Olahraga' selesai (otomatis ditandai)."
+    },
+    {
+        "timestamp": "2025-07-01 20:05:03",
+        "message": "Tugas ditambahkan: 'acbcd'"
+    },
+    {
+        "timestamp": "2025-07-01 20:43:45",
+        "message": "Tugas ditambahkan: 'Belajar dari yt'"
+    },
+    {
+        "timestamp": "2025-07-01 20:45:06",
+        "message": "Mulai Fokus selama 1 menit"
+    },
+    {
+        "timestamp": "2025-07-01 20:46:07",
+        "message": "Tugas 'Belajar dari yt' selesai (otomatis ditandai)."
+    },
+    {
+        "timestamp": "2025-07-03 11:05:03",
+        "message": "Tugas ditambahkan: 'belajar PBO dengan gua'"
+    },
+    {
+        "timestamp": "2025-07-03 11:05:21",
+        "message": "Mulai Fokus selama 1 menit"
+    },
+    {
+        "timestamp": "2025-07-03 11:06:21",
+        "message": "Tugas 'belajar PBO dengan gua' selesai (otomatis ditandai)."
+    }
+]
